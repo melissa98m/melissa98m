@@ -8,7 +8,7 @@
 
 🎓 **Formation:** Actuellement en recherche d'alternance pour obtenir le titre professionnel Expert en Informatique et Systèmes d'Information.
 
-🚀 **Expérience:** Plus de 2 ans d'expérience professionnelle en développement.
+🚀 **Expérience:** Plus de 4 ans d'expérience professionnelle en développement.
 
 ## Compétences
 

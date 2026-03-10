@@ -146,8 +146,14 @@ Je recherche un **poste en développement web / fullstack** dans une équipe où
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=melissa98m&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa98m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa98m&show_icons=true&theme=radical)
 </p>
+<details>
+<summary>:eyes: Show example</summary>
+
+![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa98m\&show_icons=true\&theme=transparent)
+
+</details>
 
 
 ---

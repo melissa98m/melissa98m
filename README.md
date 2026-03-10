@@ -14,9 +14,6 @@
   <a href="mailto:melissa.mangione@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a>
-    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=melissa98m)
-  </a>
 </p>
 
 ---
@@ -150,6 +147,8 @@ Je recherche un **poste en développement web / fullstack** dans une équipe où
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=melissa98m&theme=tokyonight" alt="mystreak"/>
 </p>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=melissa98m&count_private=true&show_icons=true&hide=contribs)
+
 
 ---
 

@@ -149,10 +149,6 @@ Je recherche un **poste en développement web / fullstack** dans une équipe où
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa98m&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=melissa98m&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">

@@ -146,6 +146,7 @@ Je recherche un **poste en développement web / fullstack** dans une équipe où
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=melissa98m&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=melissa98m&show_icons=true&theme=radical)
 </p>
 
 

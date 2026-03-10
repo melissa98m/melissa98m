@@ -14,6 +14,9 @@
   <a href="mailto:melissa.mangione@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a>
+    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=melissa98m)
+  </a>
 </p>
 
 ---

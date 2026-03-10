@@ -151,7 +151,7 @@ Je recherche un **poste en développement web / fullstack** dans une équipe où
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=melissa98m&show_icons=true&theme=synthwave" alt="Melissa's GitHub stats" />
 </p>
-<p algn="center">
+<p align="center">
   <img src="https://github-stats.coded4.me/api/stats?user=melissa98m&theme=dracula&stats=repos,prs,stars,issues,followers,commits,langs&hide_border=true" alt="GitHub Stats" />
 </p>
 

@@ -25,7 +25,7 @@ Je suis **développeuse web fullstack** avec plus de **4 ans d'expérience** en 
 
 Je recherche actuellement un **emploi en développement web / fullstack** pour rejoindre une équipe sur des projets concrets, utiles et bien construits.
 
-🎓 Je suis en fin de parcours vers le titre professionnel **Expert en Informatique et Systèmes d'Information (Bac+5)**, avec une formation qui se termine en **juillet 2026**.
+🎓 Je suis diplômée sur le titre professionnel **Expert en Informatique et Systèmes d'Information (Bac+5)**.
 
 📍 **Localisation :** Le Champ-près-Froges, France
 

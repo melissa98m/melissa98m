@@ -74,7 +74,7 @@ Plateforme web complète avec authentification, panneau d’administration, blog
 - gestion de formations
 - worker de prédiction de satisfaction
 
-🔗 **Démo :** https://weeb-website.vercel.app
+🔗 **Démo :** https://weeb.melissa-mangione.com/
 
 ---
 

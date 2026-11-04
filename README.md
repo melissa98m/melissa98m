@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bonjour, moi c'est Mélissa Mangione</h1>
 
 <p align="center">
-  💻 Développeuse web fullstack • 🚀 À la recherche d'un emploi • 🎓 Fin de parcours Bac+5 en juillet 2026
+  💻 Développeuse web fullstack • 🚀 À la recherche d'un emploi • 🎓 Diplomée Bac+5 
 </p>
 
 <p align="center">
